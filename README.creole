@@ -2,5 +2,5 @@
 
 {{shader.jpg|Shader Screenshot}}
 
-This package is a small example that shows how to create a package from a normal info-beamer node. The source code of this
-package will soon be available.
+This package is a small example that shows how to create a package from a normal info-beamer node. 
+The source code for this example is available on https://github.com/info-beamer/package-shader-example
