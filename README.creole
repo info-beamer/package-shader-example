@@ -1,0 +1,6 @@
+= The Shader
+
+{{shader.jpg|Shader Screenshot}}
+
+This package is a small example that shows how to create a package from a normal info-beamer node. The source code of this
+package will soon be available.
