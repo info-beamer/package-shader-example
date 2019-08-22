@@ -2,5 +2,6 @@
     "name": "Shader Example",
     "author": "fw@dividuum.de",
     "desc": "Minimal Example for a non-configurable node",
-    "repository": "https://github.com/info-beamer/package-shader-example"
+    "repository": "https://github.com/info-beamer/package-shader-example",
+    "platforms": ["pi/epoch-1", "pi/epoch-2"]
 }
