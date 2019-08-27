@@ -1,4 +1,4 @@
-gl.setup(640, 480)
+gl.setup(NATIVE_WIDTH, NATIVE_HEIGHT)
 
 util.resource_loader{
     "lua.png",
@@ -15,5 +15,5 @@ function node.render()
         -- proper synced time will have the effect synced.
         Effect = math.cos(os.time()*2)*3
     }
-    lua:draw(120, 40, 520, 440)
+    lua:draw(util.scale_into(WIDTH, HEIGHT, 400, 400))
 end
